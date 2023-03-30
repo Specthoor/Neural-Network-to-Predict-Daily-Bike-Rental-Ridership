@@ -1,1 +1,2 @@
 # Neural-Network-to-Predict-Daily-Bike-Rental-Ridership
+In this Neural network project, I built a neural network to predict daily bike rental ridership. The project involved implementing and tuning a neural network using Python and the Keras library. The neural network was trained on a dataset containing various features such as weather, time of day, and day of the week, in order to predict the number of bike rentals for each day. The project provided an opportunity to explore the basics of neural networks and how they can be applied to real-world problems.
